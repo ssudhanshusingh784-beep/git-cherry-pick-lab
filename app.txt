@@ -1,10 +1,13 @@
-initial code
-useradd
-userdel
-usermod
-passwd
-groupadd
-groupdel
-groups
-su
-sudo
+top
+htop
+free
+df
+du
+ps
+uptime
+netstat
+vmstat
+ifconfig
+ping
+uname
+whoami
