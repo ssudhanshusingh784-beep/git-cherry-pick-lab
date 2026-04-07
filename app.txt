@@ -1,0 +1,10 @@
+initial code
+useradd
+userdel
+usermod
+passwd
+groupadd
+groupdel
+groups
+su
+sudo
